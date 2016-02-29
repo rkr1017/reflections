@@ -9,3 +9,7 @@ Temporary arrangement. Gives time to think it over.
 How can you use the staging area to make sure you have one commit per logical change?
 
 Look what changes you introduced and and see if it warrants commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+do some experimental or sideways changes
