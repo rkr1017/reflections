@@ -13,3 +13,9 @@ Look what changes you introduced and and see if it warrants commiting
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 do some experimental or sideways changes
+
+How do the diagrams help you visualize the branch structure?
+
+help to see where barnches are
+
+
