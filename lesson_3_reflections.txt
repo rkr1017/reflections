@@ -6,4 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I may want to check if I am ok with remote changes
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+fork is to clone from one github account to another. Clone is to clone between local and remote or inside local. Branch is to make a variation of a code inside a repository.
