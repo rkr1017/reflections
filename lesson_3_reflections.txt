@@ -13,3 +13,7 @@ fork is to clone from one github account to another. Clone is to clone between l
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 you can operate on them locally
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+it would be easier not to learn git, but harder to track changes
