@@ -17,3 +17,7 @@ you can operate on them locally
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 it would be easier not to learn git, but harder to track changes
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when I collaborate with other people and want to check with them first
